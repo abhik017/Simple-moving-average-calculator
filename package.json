@@ -1,0 +1,17 @@
+{
+  "name": "sma-script",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhik Mehta",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^4.16.0",
+    "csv-writer": "^1.6.0",
+    "path": "^0.12.7",
+    "yahoo-finance": "^0.3.7"
+  }
+}
